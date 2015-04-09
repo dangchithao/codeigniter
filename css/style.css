@@ -1,0 +1,32 @@
+div.header{
+	height: 40px;
+}
+div.header p{
+	background: #dedede;
+}
+table#user_info{
+	border-collapse: collapse;
+	width: 850px;
+}
+table#user_info td{color: #669; padding: 5px 4px 5px 4px;}
+.class{
+	background-color: #BADA72;
+}
+a{color: blue; text-decoration: none;}
+a:hover{color: red; text-decoration: underline;}
+div.contentcmt{
+	/*width: 850px;*/
+	background: #DCF3FD;
+	border: 0.2em solid #dedede;
+}
+div#comment{
+}
+div#content{
+	width: 950px;
+	margin: 2px auto;
+	padding: 10px;
+	background: #F4F8A7;
+	border: 0.15em solid #dedede;
+	
+}
+div.comment{border-top: 0.1em solid #669; margin-top: 30px;}
